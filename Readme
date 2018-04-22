@@ -1,0 +1,4 @@
+## Running Instructions
+cmake .
+make
+./imageStitch
